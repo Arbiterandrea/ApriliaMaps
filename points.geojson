@@ -1,0 +1,29 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Location 1",
+                "popupContent": "<b>Location 1</b><br><img src='image_url_1' width='200px'>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [your_longitude_1, your_latitude_1]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Valeria": "Via Margherita",
+                "popupContent": "<b>Location 2</b><br><img src='https://thumbs.dreamstime.com/b/floral-immage-design-202659715.jpg' width='200px'>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [41.589617, 12.647707]
+            }
+        }
+        // Add more features as needed
+    ]
+}
+, 
